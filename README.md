@@ -61,4 +61,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=okandrexx&color=blue" alt="Просмотры профиля" />
 </p>
-<span style="color: green; font-weight: bold;">Зелёный жирный текст</span>
+<p><span style="color:#e63946; font-size:18px;"><strong>🔥 Важно:</strong></span> Не забудьте запустить миграции!</p>
+
