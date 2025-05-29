@@ -55,7 +55,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okandrexx/OKAnDrexx/refs/heads/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/okandrexx/OKAnDrexx/refs/heads/output/github-snake.svg" />
 </picture>
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=okandrexx&color=blue" alt="Просмотры профиля" />
