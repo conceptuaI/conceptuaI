@@ -6,7 +6,7 @@
 
 ---
 
-### <img src="./Animated_AgADdSEAAlo2CEg.gif" width="23"/> Обо мне:
+### <img src="./Animated_AgADdSEAAlo2CEg.gif" width="23" style="vertical-align: middle"/> Обо мне:
 - <img src="./Static_AgADiTUAAkaVyEo.png" width="17"/> Работаю в сфере: **Веб-разработка / UI/UX-дизайн**
 - <img src="./RestrictedEmoji_AgADqhgAAhdiYEs.gif" width="17"/> Люблю создавать **понятные интерфейсы**, **оптимизированный код** и **реальные решения**
 - <img src="./Animated_AgADHFgAAt1K8Eo.gif" width="17"/> Работаю с клиентами по всему миру
@@ -61,8 +61,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=okandrexx&color=blue" alt="Просмотры профиля" />
 </p>
-<style>
-img{
-    vertical-align: middle;
-}
-</style>
