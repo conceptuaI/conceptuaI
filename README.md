@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я [Ваше Имя] 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=36BCF7&center=true&vCenter=true&lines=Разработчик+%7C+UI%2FUX+Дизайнер+%7C+Open+Source+энтузиаст" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=36BCF7&center=true&vCenter=true&lines=%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%2C+UI%2FUX+%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B5%D1%80" alt="Typing SVG" />
 </p>
 
 ---
