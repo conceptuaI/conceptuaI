@@ -14,14 +14,14 @@
 
 ---
 
-### 🛠 Технологии и инструменты:
+### <img src="./Static_AgADCC0AAs3JyUo.png" width="20"/> Технологии и инструменты:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,java,nodejs,figma,vue,docker,git,androidstudio,cloudflare,kali,ubuntu,npm,sqlite,php,unreal" />
 </p>
 
 ---
 
-### 📈 GitHub Статистика:
+### <img src="./Animated_AgADMB0AAju8kEo.gif" width="20"/> GitHub Статистика:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=okandrexx&show_icons=true&theme=dark" alt="GitHub stats" />
   <br />
@@ -44,7 +44,7 @@
 
 ---
 -->
-### ☕ Контакты:
+### <img src="./Animated_AgADBx4AAnil2Es.gif" width="20"/> Контакты:
 <p>
   <a href="mailto:a.afanasev2009@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/okandrex"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
