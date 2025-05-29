@@ -15,7 +15,7 @@
 
 ### 🛠 Технологии и инструменты:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,scss,js,java,nodejs,figma,vue,docker,git,androidstudio,cloudflare,kali,ubuntu,npm,sqlite,php,unreal" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,java,nodejs,figma,vue,docker,git,androidstudio,cloudflare,kali,ubuntu,npm,sqlite,php,unreal" />
 </p>
 
 ---
