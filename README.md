@@ -51,19 +51,6 @@
 
 ---
 
-<details>
-<summary>📚 Мои любимые книги/ресурсы</summary>
-
-- *Clean Code* — Robert C. Martin  
-- *Designing Interfaces* — Jenifer Tidwell  
-- *You Don’t Know JS*  
-- [Frontend Mentor](https://www.frontendmentor.io/)
-- [Awesome GitHub Profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-
-</details>
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=okandrexx&color=blue" alt="Profile Views" />
 </p>
