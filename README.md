@@ -61,3 +61,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=okandrexx&color=blue" alt="Просмотры профиля" />
 </p>
+img{
+  vertical-align: middle;
+}
