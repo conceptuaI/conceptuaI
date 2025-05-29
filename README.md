@@ -48,6 +48,13 @@
   <a href="mailto:a.afanasev2009@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/okandrex"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/okandrexx/OKAnDrexx/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okandrexx/OKAnDrexx/refs/heads/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/okandrexx/OKAnDrexx/refs/heads/output/github-snake.svg" />
+</picture>
 
 ---
 
