@@ -22,9 +22,9 @@
 
 ### 📈 GitHub Статистика:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=okandrexx&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okandrexx&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
