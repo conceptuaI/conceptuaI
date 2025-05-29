@@ -63,6 +63,6 @@
 </p>
 <style>
 img{
-    vertical-align:middle;
+    vertical-align: middle;
 }
 </style>
