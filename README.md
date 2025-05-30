@@ -6,7 +6,7 @@
 
 ---
 
-### <img src="./Animated_AgADdSEAAlo2CEg.gif" width="30" align="absmiddle"/> <h3 align="absmiddle">Обо мне:<h3/>
+<h3 align="absmiddle"><img src="./Animated_AgADdSEAAlo2CEg.gif" width="30" align="absmiddle"/>Обо мне:<h3/>
 - <img src="./Static_AgADiTUAAkaVyEo.png" width="20" align="absmiddle"/> Работаю в сфере: **Веб-разработка / UI/UX-дизайн**
 - <img src="./RestrictedEmoji_AgADqhgAAhdiYEs.gif" width="20" align="absmiddle"/> Люблю создавать **понятные интерфейсы**, **оптимизированный код** и **реальные решения**
 - <img src="./Animated_AgADHFgAAt1K8Eo.gif" width="20" align="absmiddle"/> Работаю с клиентами по всему миру
