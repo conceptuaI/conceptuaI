@@ -23,9 +23,9 @@
 
 ### <img src="./Animated_AgADMB0AAju8kEo.gif" width="30" align="absmiddle"/> GitHub Статистика:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okandrexx&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=conceptuai&show_icons=true&theme=dark" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okandrexx&theme=dark" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=conceptuai&theme=dark" alt="GitHub streak" />
 </p>
 
 ---
@@ -47,17 +47,11 @@
 ### <img src="./Animated_AgADBx4AAnil2Es.gif" width="30" align="absmiddle"/> Контакты:
 <p>
   <a href="mailto:a.afanasev2009@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/okandrex"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/conceptuaI"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/okandrexx/OKAnDrexx/refs/heads/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okandrexx/OKAnDrexx/refs/heads/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/okandrexx/OKAnDrexx/refs/heads/output/github-snake.svg" />
-</picture>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=okandrexx&color=blue" alt="Просмотры профиля" />
+  <img src="https://komarev.com/ghpvc/?username=conteptuai&color=blue" alt="Просмотры профиля" />
 </p>
