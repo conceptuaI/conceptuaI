@@ -23,27 +23,13 @@
 
 ### <img src="./Animated_AgADMB0AAju8kEo.gif" width="30" align="absmiddle"/> GitHub Статистика:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=conceptuai&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akyryo&show_icons=true&theme=dark" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=conceptuai&theme=dark" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akyryo&theme=dark" alt="GitHub streak" />
 </p>
 
 ---
 
-<!--### 🌐 Проекты:
-| Название | Описание | Технологии |
-|----------|----------|------------|
-| **[Проект 1]** | Краткое описание, например, "CRM система для малого бизнеса" | `React`, `Node.js`, `MongoDB` |
-| **[Проект 2]** | Пример: "Интерактивный сайт-портфолио" | `Next.js`, `Tailwind`, `Figma` |
-| **[Проект 3]** | Что-то открытое: "Open Source бот для Telegram" | `Python`, `Aiogram` |
-
----
-
-### 💬 Цитата дня:
-> “Programs must be written for people to read, and only incidentally for machines to execute.” — *Harold Abelson*
-
----
--->
 ### <img src="./Animated_AgADBx4AAnil2Es.gif" width="30" align="absmiddle"/> Контакты:
 <p>
   <a href="mailto:a.afanasev2009@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -53,5 +39,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=conteptuai&color=blue" alt="Просмотры профиля" />
+  <img src="https://komarev.com/ghpvc/?username=akyryo&color=blue" alt="Просмотры профиля" />
 </p>
